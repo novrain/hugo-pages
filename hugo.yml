@@ -31,6 +31,9 @@ params:
     - name: github
       title: Github
       url: "https://github.com/novrain"
+    - name: X
+      title: X/Twitter
+      url: "https://twitter.com/novrainnn"
 
 outputs:
   home:
