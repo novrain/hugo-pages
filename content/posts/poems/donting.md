@@ -12,6 +12,8 @@ TocOpen: true
 cover:
   image: assets/images/poem/dongting.png
   hiddenInList: true
+params:
+  comments: true
 ---
 
 ## Poem

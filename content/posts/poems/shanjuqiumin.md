@@ -12,6 +12,8 @@ TocOpen: true
 cover:
   image: assets/images/poem/shanjuqiumin.png
   hiddenInList: true
+params:
+  comments: true
 ---
 
 ## Poem

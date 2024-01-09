@@ -12,6 +12,8 @@ TocOpen: true
 cover:
   image: assets/images/wavy.svg
   hiddenInList: true
+params:
+  comments: true
 ---
 
 目标：支持多种连接方式的协议测试工具.

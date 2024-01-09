@@ -12,6 +12,8 @@ TocOpen: true
 cover:
   image: assets/images/wavy.svg
   hiddenInList: true
+params:
+  comments: true
 ---
 
 Target: Build a protocol testing tool that supports various connection methods.
