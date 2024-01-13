@@ -4,7 +4,7 @@ title: "Wavy, 支持多种连接方式的协议测试工具，目前仅支持串
 date: "2023-12-26"
 description: "开发一个能编辑并保存数据块、数据帧的工具。"
 summary: "基于electron/Vue/Vuetify."
-tags: ["serial", "electron", "vue", "vuetify", "protocol", "tool", "test"]
+tags: ["Wavy", "serial", "electron", "vue", "vuetify", "protocol", "tool", "test"]
 categories: ["Code", "Wavy"]
 series: ["Wavy"]
 ShowToc: true

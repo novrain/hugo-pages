@@ -1,6 +1,6 @@
 languageCode: en
 title: novrain
-theme: PaperMod
+theme: PaperModX
 paginate : 5
 
 enableInlineShortcodes: true
@@ -35,6 +35,11 @@ params:
       title: X/Twitter
       url: "https://twitter.com/novrainnn"
   comments: true
+  TocSide: "right"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 outputs:
   home:

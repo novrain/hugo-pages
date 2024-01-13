@@ -1,7 +1,7 @@
 ---
 author: ["novrain"]
 title: "[Image AI 唐诗三百首] 山居秋暝"
-date: "2023-12-27"
+date: "2024-01-05"
 description: "用image AI/TTS制作唐诗视频"
 summary: ""
 tags: ["ai", "text2img", "Tang Dynasty Poem", "Midjourney", "stable diffusion"]

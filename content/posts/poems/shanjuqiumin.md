@@ -1,7 +1,7 @@
 ---
 author: ["novrain"]
 title: "[Image AI and Tang Dynasty Poem] AUTUMN EVENING IN THE MOUNTAINS"
-date: "2023-12-27"
+date: "2024-01-05"
 description: "A simple video by image AI and TTS."
 summary: ""
 tags: ["ai", "text2img", "Tang Dynasty Poem", "Midjourney", "stable diffusion"]

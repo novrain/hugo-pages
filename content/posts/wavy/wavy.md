@@ -4,7 +4,7 @@ title: "Wavy, a simple protocol testing tool that supports various connection ty
 date: "2023-12-26"
 description: "I want to build a tool, which can edit and save data blocks and frames."
 summary: "A tool build base on electron/Vue/Vuetify."
-tags: ["serial", "electron", "vue", "vuetify", "protocol", "tool", "test"]
+tags: ["Wavy", "serial", "electron", "vue", "vuetify", "protocol", "tool", "test"]
 categories: ["Code", "Wavy"]
 series: ["Wavy"]
 ShowToc: true
